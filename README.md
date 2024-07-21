@@ -1,1 +1,19 @@
 # chosunGs
+조선궁서체
+
+<pre>
+@font-face {
+    font-family: "chosunGs";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/chosunGs/chosunGs.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/chosunGs/chosunGs.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/chosunGs/chosunGs.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/chosunGs/chosunGs.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/chosunGs/chosunGs.ttf") format("truetype");
+    font-display: swap;
+} 
+.chosunGs {
+    font-family: "chosunGs";
+}
+</pre>
